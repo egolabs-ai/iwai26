@@ -3,8 +3,8 @@
 Materials from the **7th International Workshop on Active Inference**,
 Madrid, 14–16 October 2026.
 
-This page is where the QR codes on our posters and slides point. It holds three
-contributions — two posters, and a full paper with an oral presentation — each in
+Adding here material on three
+contributions: two posters, and a primer on the methods introduced in a - heavy - paper, each in
 its own directory. Items marked *link to follow* are not here yet; they are added
 as each piece is cleared for release.
 
